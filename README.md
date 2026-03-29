@@ -64,7 +64,8 @@ Researched **Cyberbullying** as a major online threat affecting college students
 - [LinkedIn](https://www.linkedin.com/in/aryan-sharma-ab0b38358) — Professional Network (Task 2)
 - [Kaggle](https://www.kaggle.com/skulldevil1) — Data Science Platform (Task 2)
 - [HackerRank](https://hackerrank.com) — Coding Practice (Task 3)
-- [Google Forms](https://forms.google.com) — Quiz Builder (Task 3)
+- [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSf5InuLCkQrcUOR2tvVhpZEJewDYFyddj4Ex7NeKpYMUi-8qQ/viewform?usp=publish-editor) — Quiz Builder (Task 3)
+- [ GOOGLE SHEET ](https://docs.google.com/spreadsheets/d/1ld30lgkGKR4QcBSJdd0Nw00_p4ZnXud50teb8ChdZrc/edit?resourcekey=&gid=1339376891#gid=1339376891) - GOOGLE SHEET (TASK 3)
 - [Cyber Crime Portal](https://cybercrime.gov.in) — Report Cybercrime (Task 5)
 
 ---
