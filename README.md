@@ -61,7 +61,7 @@ Researched **Cyberbullying** as a major online threat affecting college students
 
 - [Canva] [https://canva.co](https://www.canva.com/design/DAHFW_kLSd0?ui=eyJLIjp7IkEiOiJiZDFjZGZhMy1mN2Q1LTQwZjMtODIyMy1jYjY0NDBiOThjNTgifX0) — Infographic Tool (Task 1)
 - [GitHub](https://github.com) — Code Portfolio (Task 2)
-- [LinkedIn](www.linkedin.com/in/aryan-sharma-ab0b38358) — Professional Network (Task 2)
+- [LinkedIn](https://www.linkedin.com/in/aryan-sharma-ab0b38358) — Professional Network (Task 2)
 - [Kaggle](https://kaggle.com) — Data Science Platform (Task 2)
 - [HackerRank](https://hackerrank.com) — Coding Practice (Task 3)
 - [Google Forms](https://forms.google.com) — Quiz Builder (Task 3)
