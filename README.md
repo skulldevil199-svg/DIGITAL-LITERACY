@@ -4,7 +4,7 @@
 |---|---|
 | **Name** | Aryan Sharma |
 | **Registration No.** | 25BOE10059 |
-| **Branch** | B.Tech – Computer Science & Engineering (CSE) |
+| **Branch** | B.Tech – BIO-Engineering (BOE) |
 | **Year** | First Year |
 | **Course** | CSE0001 – Digital Literacy |
 | **Institution** | VIT Bhopal University |
@@ -59,9 +59,9 @@ Researched **Cyberbullying** as a major online threat affecting college students
 
 ## 🔗 Useful Links
 
-- [Canva](https://canva.com) — Infographic Tool (Task 1)
+- [Canva]([https://canva.co](https://www.canva.com/design/DAHFW_kLSd0?ui=eyJLIjp7IkEiOiJiZDFjZGZhMy1mN2Q1LTQwZjMtODIyMy1jYjY0NDBiOThjNTgifX0)) — Infographic Tool (Task 1)
 - [GitHub](https://github.com) — Code Portfolio (Task 2)
-- [LinkedIn](https://linkedin.com) — Professional Network (Task 2)
+- [LinkedIn](www.linkedin.com/in/aryan-sharma-ab0b38358) — Professional Network (Task 2)
 - [Kaggle](https://kaggle.com) — Data Science Platform (Task 2)
 - [HackerRank](https://hackerrank.com) — Coding Practice (Task 3)
 - [Google Forms](https://forms.google.com) — Quiz Builder (Task 3)
